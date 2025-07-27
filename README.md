@@ -137,6 +137,11 @@ Tests/
 
 ---
 
+App Type	Works with SmartDeeplinkKit?	How?
+Pure Swift (UIKit or SwiftUI)	✅ Fully Supported	Direct usage
+Mixed (Swift + Objective-C)	✅ Use in Swift layer	Swift handles deep link & calls Obj-C
+Pure Objective-C	❌ Not directly	Needs custom bridging or wrapper
+
 ## 📄 License
 
 SmartDeeplinkKit is available under the MIT license.  
