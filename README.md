@@ -21,6 +21,10 @@ A powerful, flexible, and production-ready deep linking library for iOS.
 
 ## 📦 Installation
 
+CocoaPods
+
+pod 'SmartDeeplinkKit'
+
 ### Swift Package Manager (SPM)
 
 ```swift
